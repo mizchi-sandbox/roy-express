@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "name": "royapp",
+  "version": "0.0.0",
+  "dependencies": {
+    "roy": "*",
+    "express": "2.5.10"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

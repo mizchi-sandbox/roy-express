@@ -1,0 +1,9 @@
+let express = require "express"
+let app = express.createServer()
+app.use (express.static (__dirname ++ "public"))
+app.set "view engine" "jade"
+app.listen 3000
+
+let index req res = res.render "index" {layout:false}
+app.get "/" index
+
