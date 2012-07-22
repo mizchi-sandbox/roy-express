@@ -5,6 +5,8 @@
   "dependencies": {
     "roy": "*",
     "express": "2.5.10",
+    "coffee-script": "*",
+    "jade": "*",
     "connect-assets": "*"
   },
   "devDependencies": {},
